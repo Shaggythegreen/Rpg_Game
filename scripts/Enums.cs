@@ -196,7 +196,7 @@ public enum FemaleNameDictionary
     Hanna,
     Ananya,
     Beatriz,
-    Chloé,
+    ChloÃ©,
     Noor,
     Zhen,
     Freya,
@@ -415,4 +415,8 @@ public enum Biome
 public enum Composition
 {
     Organic,Inorganic
+}
+public enum Dice
+{
+     D4,D6, D8,D10,D12,D20
 }
